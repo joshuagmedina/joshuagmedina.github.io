@@ -1,8 +1,19 @@
-# Bioinformatician and Molecular Biologist
+## Education
+- Aug 2018-Present **·** Ph.D. Biology  
+Univeristy of Puerto Rico, Rio Piedras Campus
+
+- Aug 2017-June 2018 **·** M.S. Biology (_Degree Not Obtained_)  
+University of Puerto Rico, Mayagüez Campus
+
+- Jan 2013-May 2017 **·** B.S. Cell and Molecular Biology  
+Universidad Ana G. Méndez, Puerto Rico
+
+## Skills
+
 #### **Technical Skills:**  
 Bash scripting, R, Python, Perl
 
-#### **Research Skills:**
+#### **Overview of Research Skills:**
 - **Bioinformatics:**  
 Database Management, Transcriptome and Genome Assembly, Gene Annotation and Characterization (Including Manual Annotation), Gene Differential Expression Analyses, single cell RNA seq Analysis
 - **Molecular Biology:**  
@@ -13,16 +24,6 @@ Ultraviolet-Visible, Fluorescence & Fourier Transform Infrared Spectroscopy, Dyn
 #### Other Skills:  
 - Web Page Design (HTML and CSS)
 - Graphic Design (Adobe Photoshop, Illustrator, InDesign)
-
-## Education
-- Aug 2018-Present **·** Ph.D. Biology  
-Univeristy of Puerto Rico, Rio Piedras Campus
-
-- Aug 2017-June 2018 **·** M.S. Biology (_Degree Not Obtained_)  
-University of Puerto Rico, Mayagüez Campus
-
-- Jan 2013-May 2017 **·** B.S. Cell and Molecular Biology  
-Universidad Ana G. Méndez, Puerto Rico
 
 ## Work Experiences
 * 2023-Present · Research and Development Intern  
