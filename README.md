@@ -11,7 +11,7 @@ Universidad Ana G. Méndez, Puerto Rico
 ## Skills
 
 #### **Technical Skills:**  
-Bash scripting, R, Python, Perl
+* Bash scripting, R, Python, Perl
 
 #### **Overview of Research Skills:**
 - **Bioinformatics:**  
@@ -28,7 +28,7 @@ Ultraviolet-Visible, Fluorescence & Fourier Transform Infrared Spectroscopy, Dyn
 ## Work Experiences
 * 2023-Present · Research and Development Intern  
   Eli Lilly and Company, Indianapolis, IN
-  - Mammalian Cell Culture Late Phase
+  - Bioproducts Research and Development · Mammalian Cell Culture
 * 2022-Present · Research Assistant  
    University of Puerto Rico - Rio Piedras Campus, San Juan, PR
   - RNA-seq data processing
