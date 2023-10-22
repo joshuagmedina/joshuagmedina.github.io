@@ -1,18 +1,5 @@
-title: Joshua G. Medina
+title: Joshua G. Medina-Feliciano
 logo: assets/img/pic.jpg
 #description: Bioinformatician and Molecular Biologist
 #show_downloads: false
 theme: jekyll-theme-minimal
-
-# Author
-author:
-  name             : "Joshua G. Medina"
-  location         : "San Juan, PR"
-  employer         : "University of Puerto Rico"
-  googlescholar    : "https://scholar.google.com/citations?user=sPQjqZ0AAAAJ&hl=en&oi=ao"
-  email            : "joshua.medina8@upr.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  github           : "joshuagmedina"
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  twitter          : ""
