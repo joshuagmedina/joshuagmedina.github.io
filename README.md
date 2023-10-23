@@ -24,7 +24,7 @@ Cell and Molecular Analysis Techniques, Cell and Bacterial Culture, qRT-PCR, DNA
 - **Spectroscopic Methods:**  
 Ultraviolet-Visible, Fluorescence & Fourier Transform Infrared Spectroscopy, Dynamic Light Scattering
 
-#### Other Skills:  
+#### **Other Skills:**  
 - Web Page Design (HTML and CSS)
 - Graphic Design (Adobe Photoshop, Illustrator, InDesign)
 
