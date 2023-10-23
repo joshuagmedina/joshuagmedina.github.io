@@ -1,5 +1,5 @@
 title: <center>Joshua G. Medina</center>
-logo: <center><img src="assets/img/pic.jpg"></center>
+logo: "<img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"assets/img/pic.jpg\" />"
 description: Currently working on the assembly of a high-quality genome of the sea cucumber <i>Holothuria glaberrima</i> and scRNA-seq of its regenerating intestinal tissue.
 #show_downloads: false
 theme: jekyll-theme-minimal
