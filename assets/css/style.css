@@ -201,6 +201,11 @@ body {
       width:auto;
       margin:0;
     }
+
+    img {
+        max-width:85%;
+        border-radius: 50%;
+      }
   
     header, section, footer {
       float:none;
@@ -234,6 +239,11 @@ body {
     body {
       word-wrap:break-word;
     }
+
+    img {
+        max-width:85%;
+        border-radius: 50%;
+      }
   
     header {
       padding:0;
