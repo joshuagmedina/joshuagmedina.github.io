@@ -5,7 +5,7 @@ ___
 - Aug 2018-Present **·** Ph.D. Biology  
 Univeristy of Puerto Rico, Rio Piedras Campus
 
-- Aug 2017-June 2018 **·** M.S. Biology (_Degree Not Obtained_)  
+- Aug 2017-June 2018 **·** M.S. Biology (_Transfered_)  
 University of Puerto Rico, Mayagüez Campus
 
 - Jan 2013-May 2017 **·** B.S. Cell and Molecular Biology  
