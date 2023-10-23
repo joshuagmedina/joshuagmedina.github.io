@@ -1,5 +1,3 @@
-<br><br/>
- 
 ## Bioinformatician and Molecular Biologist
 ___
 
